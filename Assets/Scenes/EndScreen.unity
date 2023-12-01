@@ -560,7 +560,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 11500000, guid: 0f24c569da345f24cb87decf158cf997, type: 3}
         m_TargetAssemblyTypeName: StartMenu, Assembly-CSharp
         m_MethodName: 
         m_Mode: 1
